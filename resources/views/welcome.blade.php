@@ -86,7 +86,12 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>
+            As a Software Engineer, your portfolio is a showcase of your skills, projects, and achievements. It should effectively demonstrate your technical abilities, problem-solving capabilities, and your potential as a valuable asset to any team or employer. Here's a sample text to include in your portfolio:
+            
+            Hello and welcome to my Software Engineering portfolio!
+            
+            I am a passionate and innovative Software Engineer with a deep-rooted love for technology and a drive to create meaningful solutions. Over the years, I have honed my skills in various programming languages, frameworks, and tools, and I am excited to share some of my notable projects with you..</p>
         </div>
 
         <div class="row">
@@ -189,7 +194,7 @@
           <div class="col-lg-6" data-aos="fade-up">
 
             <div class="progress">
-              <span class="skill">HTML <i class="val">100%</i></span>
+              <span class="skill">HTML <i class="val">95%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
@@ -203,7 +208,7 @@
             </div>
 
             <div class="progress">
-              <span class="skill">JavaScript <i class="val">75%</i></span>
+              <span class="skill">JavaScript <i class="val">85%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
@@ -252,7 +257,7 @@
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-up">
-            <h3 class="resume-title">Sumary</h3>
+            <h3 class="resume-title">Summary</h3>
             <div class="resume-item pb-0">
               <h4>Sasmitha Rathnayaka</h4>
               <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
@@ -468,7 +473,7 @@
 
       </div>
     </section><!-- End Services Section -->
-
+{{-- 
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials section-bg">
       <div class="container">
@@ -481,7 +486,7 @@
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
           <div class="swiper-wrapper">
 
-            <div class="swiper-slide">
+            {{-- <div class="swiper-slide">
               <div class="testimonial-item" data-aos="fade-up">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -490,10 +495,10 @@
                 </p>
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
                 <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
+                {{-- <h4>Ceo &amp; Founder</h4>
               </div>
-            </div><!-- End testimonial item -->
-
+            </div><!-- End testimonial item --> --}}
+{{-- 
             <div class="swiper-slide">
               <div class="testimonial-item" data-aos="fade-up" data-aos-delay="100">
                 <p>
@@ -551,7 +556,7 @@
         </div>
 
       </div>
-    </section><!-- End Testimonials Section -->
+    </section><!-- End Testimonials Section --> --}} --}} --}}
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
@@ -628,16 +633,8 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span>iPortfolio</span></strong>
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
+    
+    
     </div>
   </footer><!-- End  Footer -->
 
